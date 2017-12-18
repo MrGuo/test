@@ -9,3 +9,4 @@
 # [feature/myfeature] test from macpro 12-18 12:26
 
 # [release-1.1] test from macpro 12-18 13:40
+# [release-1.1] bug fix 13:49
